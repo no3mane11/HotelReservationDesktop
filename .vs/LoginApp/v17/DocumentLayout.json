@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ALIENWARE\\Desktop\\les projets\\c#\\testProject\\LoginApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21BE9F1D-5EC4-40A0-9D50-C45AEF50D412}|LoginApp\\LoginApp.csproj|c:\\users\\alienware\\desktop\\les projets\\c#\\testproject\\loginapp\\loginapp\\user controll\\controlpaiement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BE9F1D-5EC4-40A0-9D50-C45AEF50D412}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\user controll\\controlpaiement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BE9F1D-5EC4-40A0-9D50-C45AEF50D412}|LoginApp\\LoginApp.csproj|C:\\Users\\ALIENWARE\\Desktop\\les projets\\c#\\testProject\\LoginApp\\loginapp\\user controll\\controlpaiement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21BE9F1D-5EC4-40A0-9D50-C45AEF50D412}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\user controll\\controlpaiement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BE9F1D-5EC4-40A0-9D50-C45AEF50D412}|LoginApp\\LoginApp.csproj|c:\\users\\alienware\\desktop\\les projets\\c#\\testproject\\loginapp\\loginapp\\user controll\\controlreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BE9F1D-5EC4-40A0-9D50-C45AEF50D412}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\user controll\\controlreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BE9F1D-5EC4-40A0-9D50-C45AEF50D412}|LoginApp\\LoginApp.csproj|c:\\users\\alienware\\desktop\\les projets\\c#\\testproject\\loginapp\\loginapp\\user controll\\controlreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21BE9F1D-5EC4-40A0-9D50-C45AEF50D412}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\user controll\\controlreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BE9F1D-5EC4-40A0-9D50-C45AEF50D412}|LoginApp\\LoginApp.csproj|c:\\users\\alienware\\desktop\\les projets\\c#\\testproject\\loginapp\\loginapp\\user controll\\controlchambre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BE9F1D-5EC4-40A0-9D50-C45AEF50D412}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\user controll\\controlchambre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BE9F1D-5EC4-40A0-9D50-C45AEF50D412}|LoginApp\\LoginApp.csproj|c:\\users\\alienware\\desktop\\les projets\\c#\\testproject\\loginapp\\loginapp\\user controll\\controlchambre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21BE9F1D-5EC4-40A0-9D50-C45AEF50D412}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\user controll\\controlchambre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BE9F1D-5EC4-40A0-9D50-C45AEF50D412}|LoginApp\\LoginApp.csproj|c:\\users\\alienware\\desktop\\les projets\\c#\\testproject\\loginapp\\loginapp\\user controll\\usercontrolsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21BE9F1D-5EC4-40A0-9D50-C45AEF50D412}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\user controll\\usercontrolsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BE9F1D-5EC4-40A0-9D50-C45AEF50D412}|LoginApp\\LoginApp.csproj|c:\\users\\alienware\\desktop\\les projets\\c#\\testproject\\loginapp\\loginapp\\user controll\\dashboardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21BE9F1D-5EC4-40A0-9D50-C45AEF50D412}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\user controll\\dashboardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BE9F1D-5EC4-40A0-9D50-C45AEF50D412}|LoginApp\\LoginApp.csproj|c:\\users\\alienware\\desktop\\les projets\\c#\\testproject\\loginapp\\loginapp\\formdash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21BE9F1D-5EC4-40A0-9D50-C45AEF50D412}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\formdash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BE9F1D-5EC4-40A0-9D50-C45AEF50D412}|LoginApp\\LoginApp.csproj|c:\\users\\alienware\\desktop\\les projets\\c#\\testproject\\loginapp\\loginapp\\user controll\\dashboardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BE9F1D-5EC4-40A0-9D50-C45AEF50D412}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\user controll\\dashboardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ControlPaiement.cs",
+              "DocumentMoniker": "C:\\Users\\ALIENWARE\\Desktop\\les projets\\c#\\testProject\\LoginApp\\LoginApp\\User Controll\\ControlPaiement.cs",
+              "RelativeDocumentMoniker": "LoginApp\\User Controll\\ControlPaiement.cs",
+              "ToolTip": "C:\\Users\\ALIENWARE\\Desktop\\les projets\\c#\\testProject\\LoginApp\\LoginApp\\User Controll\\ControlPaiement.cs",
+              "RelativeToolTip": "LoginApp\\User Controll\\ControlPaiement.cs",
+              "ViewState": "AgIAALEBAAAAAAAAAAAkwMkBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:57:12.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ControlPaiement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ALIENWARE\\Desktop\\les projets\\c#\\testProject\\LoginApp\\LoginApp\\User Controll\\ControlPaiement.cs",
+              "RelativeDocumentMoniker": "LoginApp\\User Controll\\ControlPaiement.cs",
+              "ToolTip": "C:\\Users\\ALIENWARE\\Desktop\\les projets\\c#\\testProject\\LoginApp\\LoginApp\\User Controll\\ControlPaiement.cs [Design]",
+              "RelativeToolTip": "LoginApp\\User Controll\\ControlPaiement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:08:35.922Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ControlReservation.cs",
+              "DocumentMoniker": "C:\\Users\\ALIENWARE\\Desktop\\les projets\\c#\\testProject\\LoginApp\\LoginApp\\User Controll\\ControlReservation.cs",
+              "RelativeDocumentMoniker": "LoginApp\\User Controll\\ControlReservation.cs",
+              "ToolTip": "C:\\Users\\ALIENWARE\\Desktop\\les projets\\c#\\testProject\\LoginApp\\LoginApp\\User Controll\\ControlReservation.cs",
+              "RelativeToolTip": "LoginApp\\User Controll\\ControlReservation.cs",
+              "ViewState": "AgIAABsCAAAAAAAAAAAQwCwBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:47:41.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ControlReservation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ALIENWARE\\Desktop\\les projets\\c#\\testProject\\LoginApp\\LoginApp\\User Controll\\ControlReservation.cs",
+              "RelativeDocumentMoniker": "LoginApp\\User Controll\\ControlReservation.cs",
+              "ToolTip": "C:\\Users\\ALIENWARE\\Desktop\\les projets\\c#\\testProject\\LoginApp\\LoginApp\\User Controll\\ControlReservation.cs [Design]",
+              "RelativeToolTip": "LoginApp\\User Controll\\ControlReservation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:47:38.43Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ControlChambre.cs",
+              "DocumentMoniker": "C:\\Users\\ALIENWARE\\Desktop\\les projets\\c#\\testProject\\LoginApp\\LoginApp\\User Controll\\ControlChambre.cs",
+              "RelativeDocumentMoniker": "LoginApp\\User Controll\\ControlChambre.cs",
+              "ToolTip": "C:\\Users\\ALIENWARE\\Desktop\\les projets\\c#\\testProject\\LoginApp\\LoginApp\\User Controll\\ControlChambre.cs",
+              "RelativeToolTip": "LoginApp\\User Controll\\ControlChambre.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAQwH0BAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:28:32.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ControlChambre.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ALIENWARE\\Desktop\\les projets\\c#\\testProject\\LoginApp\\LoginApp\\User Controll\\ControlChambre.cs",
+              "RelativeDocumentMoniker": "LoginApp\\User Controll\\ControlChambre.cs",
+              "ToolTip": "C:\\Users\\ALIENWARE\\Desktop\\les projets\\c#\\testProject\\LoginApp\\LoginApp\\User Controll\\ControlChambre.cs [Design]",
+              "RelativeToolTip": "LoginApp\\User Controll\\ControlChambre.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:28:27.584Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DashboardControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ALIENWARE\\Desktop\\les projets\\c#\\testProject\\LoginApp\\LoginApp\\User Controll\\DashboardControl.cs",
+              "RelativeDocumentMoniker": "LoginApp\\User Controll\\DashboardControl.cs",
+              "ToolTip": "C:\\Users\\ALIENWARE\\Desktop\\les projets\\c#\\testProject\\LoginApp\\LoginApp\\User Controll\\DashboardControl.cs [Design]",
+              "RelativeToolTip": "LoginApp\\User Controll\\DashboardControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:19:01.638Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserControlSettings.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ALIENWARE\\Desktop\\les projets\\c#\\testProject\\LoginApp\\LoginApp\\User Controll\\UserControlSettings.cs",
+              "RelativeDocumentMoniker": "LoginApp\\User Controll\\UserControlSettings.cs",
+              "ToolTip": "C:\\Users\\ALIENWARE\\Desktop\\les projets\\c#\\testProject\\LoginApp\\LoginApp\\User Controll\\UserControlSettings.cs [Design]",
+              "RelativeToolTip": "LoginApp\\User Controll\\UserControlSettings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:18:53.462Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormDash.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ALIENWARE\\Desktop\\les projets\\c#\\testProject\\LoginApp\\LoginApp\\FormDash.cs",
+              "RelativeDocumentMoniker": "LoginApp\\FormDash.cs",
+              "ToolTip": "C:\\Users\\ALIENWARE\\Desktop\\les projets\\c#\\testProject\\LoginApp\\LoginApp\\FormDash.cs [Design]",
+              "RelativeToolTip": "LoginApp\\FormDash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T07:11:40.622Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DashboardControl.cs",
+              "DocumentMoniker": "C:\\Users\\ALIENWARE\\Desktop\\les projets\\c#\\testProject\\LoginApp\\LoginApp\\User Controll\\DashboardControl.cs",
+              "RelativeDocumentMoniker": "LoginApp\\User Controll\\DashboardControl.cs",
+              "ToolTip": "C:\\Users\\ALIENWARE\\Desktop\\les projets\\c#\\testProject\\LoginApp\\LoginApp\\User Controll\\DashboardControl.cs",
+              "RelativeToolTip": "LoginApp\\User Controll\\DashboardControl.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T21:09:33.73Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
