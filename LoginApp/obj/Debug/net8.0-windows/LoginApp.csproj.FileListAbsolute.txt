@@ -105,3 +105,4 @@ C:\Users\ALIENWARE\Desktop\les projets\c#\testProject\LoginApp\LoginApp\bin\Debu
 C:\Users\ALIENWARE\Desktop\les projets\c#\testProject\LoginApp\LoginApp\bin\Debug\net8.0-windows\LiveCharts.WinForms.dll
 C:\Users\ALIENWARE\Desktop\les projets\c#\testProject\LoginApp\LoginApp\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
 C:\Users\ALIENWARE\Desktop\les projets\c#\testProject\LoginApp\LoginApp\obj\Debug\net8.0-windows\LoginApp.User_Controll.DashboardControl.resources
+C:\Users\ALIENWARE\Desktop\les projets\c#\testProject\LoginApp\LoginApp\obj\Debug\net8.0-windows\LoginApp.sourcelink.json
